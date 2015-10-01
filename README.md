@@ -1,2 +1,2 @@
 # Prueba
-prueba Bases de Datos Avanzadas
+Prueba Bases de Datos Avanzadas
